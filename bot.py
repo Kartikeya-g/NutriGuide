@@ -14,7 +14,7 @@ def get_response(prompt):
 
     # Initialize the Groq client
     client = Groq(
-        api_key="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",
+        api_key="Your Groq API",
     )
 
     # Get the chat completion
